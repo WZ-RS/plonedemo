@@ -1,0 +1,12 @@
+---
+users:
+
+  'plone':
+    name: 'Plone installation'
+    email: 'raphael@wochen-zeitung.ch'
+    public_keys: []
+    state: present
+    shell: '/bin/bash'
+    groups:
+      - 'docker'
+      - 'plone'

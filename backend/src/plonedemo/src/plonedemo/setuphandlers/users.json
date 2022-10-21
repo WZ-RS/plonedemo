@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "raphael@wochen-zeitung.ch",
+      "properties": {
+        "fullname": "Plone 6 Demo",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "plonedemo"
+    }
+  ],
+    "team": [
+  ]
+}
