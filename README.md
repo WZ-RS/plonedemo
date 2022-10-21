@@ -2,10 +2,8 @@
 
 [![Built with Cookiecutter Plone Starter](https://img.shields.io/badge/built%20with-Cookiecutter%20Plone%20Starter-0083be.svg?logo=cookiecutter)](https://github.com/collective/cookiecutter-plone-starter/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![Backend Tests](https://github.com/collective/plonedemo/actions/workflows/backend.yml/badge.svg)](https://github.com/collective/plonedemo/actions/workflows/backend.yml)
-[![Frontend Tests](https://github.com/collective/plonedemo/actions/workflows/frontend.yml/badge.svg)](https://github.com/collective/plonedemo/actions/workflows/frontend.yml)
 
-A Plone 6 Demo for Herrmann AG
+A Plone 6 demo site for Herrmann AG
 
 ## Quick start
 
